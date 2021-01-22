@@ -13,3 +13,10 @@ function subtract(x,y){
 function divide(x,y){
   return x/y
 }
+
+function increment(n){
+  n++
+}
+function decrement(n){
+  n--
+}
